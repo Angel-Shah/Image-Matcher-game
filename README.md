@@ -12,5 +12,5 @@ If you want to try the application for yourself, you may download the code from 
 
 Below is a GIF that demos how the application works:
 
-![](
+![](gameDemo.gif)
 
